@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floating Subtitles</string>
+    <string name="overlay_permission_granted">Overlay permission: granted</string>
+    <string name="overlay_permission_missing">Overlay permission: not granted</string>
+    <string name="overlay_running_notification">Subtitle overlay is active</string>
+    <string name="instructions">1) Grant the overlay permission.\n2) Pick an .srt or .vtt file.\n3) Start the overlay, then switch to your video app.\n\nTap the overlay to show/hide its controls. Drag the top bar to move it.</string>
+</resources>
